@@ -3,7 +3,7 @@ import java.io.IOException;
 /**
 TEST
  */
-public class HW6Driver {
+public class Driver {
 
     /**
      * Test program to test building index using BST.
